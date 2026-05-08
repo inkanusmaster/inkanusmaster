@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @inkanusmaster
 - 👀 I’m interested in Music, Computer Networks, Chess, Android/Unity programming, Ansible.
 - 🌱 I’m currently learning Ansible for network automation.
-- 💞️ I’m looking to collaborate on Android/Unity/Network/Security
 - 📫 How to reach me. Email - wojcicki.m89@gmail.com
 
 <!---
